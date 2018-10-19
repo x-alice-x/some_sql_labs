@@ -1,5 +1,3 @@
---Кожемякина Алиса гр.1152
-
 -- 1. Список домов по улице Дзержинского.
 select street, house_number 
 	from locations where street = 'Дзержинского';
